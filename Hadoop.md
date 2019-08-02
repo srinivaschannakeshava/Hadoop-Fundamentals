@@ -61,7 +61,12 @@ Installing Hadoop
     - <i>Fully distributed</i> - production mode . Runs on a cluster of machines. 
 
 
-    
+- Processes associated with HDFS 
+    > Namenode, Datanode, SecondaryNameNode
+- to check type <i>jps</i> in the command promt
+- Processes associated with YARN
+    > Nodemanager , ResourceManager
+
 
 
 
